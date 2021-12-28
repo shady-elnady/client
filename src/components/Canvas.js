@@ -11,6 +11,8 @@ import useGlobal from "../AppState";
 const styles = {
   border: "0.0625rem solid #6412CF",
   borderRadius: "0.25rem",
+  width: "800px",
+  height: "800px"
 };
 
 const Canvas = () => {
